@@ -1,0 +1,2 @@
+﻿DROP VIEW IF EXISTS view_4;
+CREATE VIEW view_4 AS SELECT * FROM table_1;
